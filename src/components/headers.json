@@ -1,0 +1,13 @@
+[
+    {
+      "text": "ID",
+      "align": "start",
+      "filterable": false,
+      "value": "STD_ID"
+    },
+    { "text": "Şirket", "value": "Label" },
+    {"text": "Kullanıcı Tipi", "value":""},
+    {"text": "Hesap Tipi", "value":""},
+    {"text": "Statü", "value":""},
+    {"text": "Dönem", "value":""}
+  ]

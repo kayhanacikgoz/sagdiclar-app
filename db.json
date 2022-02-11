@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "email": "kayhanacikgoz@gmail.com",
+            "password": "152000"
+        },
+        {
+            "email": "erdisener@gmail.com",
+            "password": "123456"
+        },
+        {
+            "email": "mertakiner@gmail.com",
+            "password": "123456"
+        },
+        {
+            "email": "mönder@gmail.com",
+            "password": "123456"
+        }
+    ]
+}
